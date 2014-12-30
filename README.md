@@ -1,4 +1,4 @@
 helloSeleniumJavaMaven
 ======================
 
-Very simple automatic functional test with SeleniumRC, Java and Maven.
+Very simple automatic functional test with Selenium, Java and Maven.
